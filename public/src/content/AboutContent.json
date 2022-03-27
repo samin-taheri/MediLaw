@@ -1,0 +1,36 @@
+{
+  "title": "Advantages",
+  "text": "",
+  "section": [
+    {
+      "title": "Platform Independent",
+      "content": "MediLaw is a fully web-based software solution, allowing you to access any desktop or mobile platform",
+      "icon": "plat.png"
+    },
+    {
+      "title": "Cloud Technology",
+      "content": "Since MediLaw will keep all your data on cloud servers, your corporate memory is not affected by hardware failures and personnel changes.",
+      "icon": "clou.png"
+    },
+    {
+      "title": "Data Security",
+      "content": "MediLaw gives you time and transparency for teamwork, while providing you with detailed authorization definitions to take your privacy measures.",
+      "icon": "dat.png"
+    },
+    {
+      "title": "Free Maintenance & Support",
+      "content": "If you request any changes on MediLaw.com, automatic updating will be done online.",
+      "icon": "support.png"
+    },
+    {
+      "title": "Fixed Investment & No Cost",
+      "content": "You don't need to buy a server for your office, you need service, maintenance, license and fast internet.",
+      "icon": "i.png"
+    },
+    {
+      "title": "Pay As You Go",
+      "content": "MediLaw does not bring you new investment cost with extra hardware cost, you pay as much as you use.",
+      "icon": "pay.png"
+    }
+  ]
+}

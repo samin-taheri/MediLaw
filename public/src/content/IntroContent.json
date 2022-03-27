@@ -1,0 +1,13 @@
+{
+  "title": "a cloud-based software solution designed for lawyers by MediLaw",
+  "text": "",
+  "button": [
+    {
+      "title": "Get Started"
+    },
+    {
+      "title": "Learn more",
+      "color": "#fff"
+    }
+  ]
+}
