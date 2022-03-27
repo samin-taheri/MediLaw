@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import {Link} from "react-router-dom";
 
 export const LeftContentSection = styled("section")`
   position: relative;
@@ -15,7 +16,7 @@ export const Content = styled("p")`
 
 export const ContentWrapper = styled("div")`
   position: relative;
-  max-width: 540px;
+  width: 580px;
 
   @media only screen and (max-width: 575px) {
     padding-top: 4rem;
@@ -26,7 +27,20 @@ export const ServiceWrapper = styled("div")`
   display: flex;
   justify-content: space-between;
   max-width: 100%;
+
+  div {
+    div {
+      &:hover,
+      &:active,
+      &:focus {
+        -webkit-transform: scale(1.1);
+        -ms-transform: scale(1.1);
+        transform: scale(1.1);
+      }
+    }
+  }  
 `;
+
 
 export const MinTitle = styled("h6")`
   font-size: 15px;

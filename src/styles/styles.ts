@@ -47,7 +47,7 @@ export const Styles = createGlobalStyle`
 
         :focus-within {
             background: none;
-            box-shadow: #2e186a 0px 0px 0px 1px;
+            box-shadow: #18206a 0px 0px 0px 1px;
         }
     }
 
@@ -59,7 +59,7 @@ export const Styles = createGlobalStyle`
     h6 {
         font-family: 'Motiva Sans Bold', serif;
         color: #18216d;
-        font-size: 56px;
+        font-size: 45px;
         line-height: 1.18;
 
         @media only screen and (max-width: 890px) {
@@ -78,16 +78,18 @@ export const Styles = createGlobalStyle`
     }
 
     h1 {
-        font-weight: 600;
+        font-weight: 400;
     }
-
+    h2 {
+      font-size: 35px;
+    }
     a {
         text-decoration: none;
         outline: none;
-        color: #2E186A;
+        color: #18206a;
 
         :hover {
-            color: #2e186a;
+            color: #18206a;
         }
     }
     

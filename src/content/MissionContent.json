@@ -1,4 +1,52 @@
 {
-  "title": "Ready made sections",
-  "text": "Landy comes with a set of ready to use sections to help you easily create a landing page for your own brand, with all the content your startup desires. In order to replace any dummy elements (text, image, etc..) all you need to do is go to content folder and input your real content."
+  "title": "Features",
+  "text": "Work Follow, Front Office, CRM Module, Pre-Accounting, Cost Monitoring, Cost Management, Consulting Module, Document Management, Archive Management, Team Work, Event Management, Personal Definitions.",
+  "section": [
+    {
+      "title": "Workflow",
+      "content": "MediLaw is an integrated software product that can respond to all requests from A to Z of a law office that works as a singular or team.",
+      "icon": "workflow2.png"
+    },
+    {
+      "title": "Front Office",
+      "content": "You can add, edit and access all the details about your clients at any time.",
+      "icon": "office.png"
+    },
+    {
+      "title": "CRM Module",
+      "content": "You can make corporate notifications or special day celebrations with sms and e-mails about all your processes.",
+      "icon": "crm.png"
+    },
+    {
+      "title": "Pre-Accounting",
+      "content": "You can make relational current transactions between the main cash account, employee accounts and client accounts.",
+      "icon": "accounting.png"
+    },
+    {
+      "title": "Cost Monitoring",
+      "content": "You can add income or income to client accounts, upload documents related to account transactions to the system and prepare account transactions report with one touch.",
+      "icon": "monitor.png"
+    },
+    {
+      "title": "Cost Management",
+      "content": "\tBy specifying the authorization for cost claims, you can ensure that unauthorized user-entered costs are reviewed and processed after approval by the authorized user.",
+      "icon": "management.png"
+    },
+    {
+      "title": "Consulting Module",
+      "content": "You can add, edit, and access the services provided within the scope of consultancy files and consultancy services, and provide the services you provide to your clients as reports.",
+      "icon": "consulting.png"
+    },
+    {
+      "title": "Document Management",
+      "content": "You can upload documents from your clients to cloud servers and access them at any time.",
+      "icon": "document.png"
+    },
+    {
+      "title": "Archive Management",
+      "content": "You can easiliy manage your archive by making physical archive definitions for your files.",
+      "icon": "archive.png"
+    }
+  ]
 }
+

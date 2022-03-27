@@ -13,6 +13,16 @@ export const HeaderSection = styled("header")`
 
 export const LogoContainer = styled(Link)`
   display: flex;
+  margin-top: 20px;
+  
+  h2{
+  &:hover,
+  &:active,
+  &:focus {
+    color: rgb(99, 226, 150);
+    text-decoration: rgb(99, 226, 150);
+  }
+    }
 `;
 
 export const NavLink = styled("div")`
@@ -97,8 +107,8 @@ export const Span = styled("span")`
   &:hover,
   &:active,
   &:focus {
-    color: rgb(255, 130, 92);
+    color: rgb(99, 226, 150);
     text-underline-position: under;
-    text-decoration: rgb(255, 130, 92) wavy underline;
+    text-decoration: rgb(99, 226, 150) underline;
   }
 `;

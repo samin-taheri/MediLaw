@@ -39,7 +39,7 @@ const Contact = ({ title, content, id, t }: ContactProps) => {
                 <Input
                   type="text"
                   name="name"
-                  placeholder="Your Name"
+                  placeholder="Full Name"
                   value={values.name || ""}
                   onChange={handleChange}
                 />
