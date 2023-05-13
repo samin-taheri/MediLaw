@@ -3,8 +3,9 @@ Landing Page:
 
 The hero, as shown in the figure 81 contains the header that when clicked navigates the users to the specified areas and also there exist two buttons that when pressed navigates the users to the MediLaw admin panel.
 image
+<br>
 ![image](https://github.com/samin-taheri/MediLaw/assets/58706708/67cd5663-b98b-4785-a627-95c223f8ddf1)
-
+</br>
 Figure 81:
 In the next section, the advantages of this software solution is displayed as can be seen in the figure 82.
 image
