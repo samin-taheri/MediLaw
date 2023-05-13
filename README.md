@@ -1,6 +1,6 @@
 
 
-MediLaw Landing Page:
+#MediLaw Landing Page:
 
 The hero, as shown in the figure 81 contains the header that when clicked navigates the users to the specified areas and also there exist two buttons that when pressed navigates the users to the MediLaw admin panel.
 </br>![image](https://user-images.githubusercontent.com/42031794/177760266-d7fbcd87-96d0-48a5-bdc5-2a19afc34778.png)
